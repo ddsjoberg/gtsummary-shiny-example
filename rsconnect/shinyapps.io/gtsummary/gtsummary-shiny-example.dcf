@@ -1,0 +1,14 @@
+name: gtsummary-shiny-example
+title: gtsummary-shiny-example
+username:
+account: gtsummary
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7942213
+bundleId: 6672462
+url: https://gtsummary.shinyapps.io/gtsummary-shiny-example/
+when: 1671995566.23008
+lastSyncTime: 1671995566.23009
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
